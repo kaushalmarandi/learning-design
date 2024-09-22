@@ -5,6 +5,6 @@ public class Main {
         Databaseconnection databaseconnection1=Databaseconnection.getInstance();
         Databaseconnection databaseconnection2=Databaseconnection.getInstance();
 
-        System.out.println("DEBUG");
+         System.out.println("DEBUG");
     }
 }
